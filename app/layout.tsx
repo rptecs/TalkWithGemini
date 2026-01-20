@@ -12,7 +12,7 @@ import './globals.css'
 const HEAD_SCRIPTS = process.env.HEAD_SCRIPTS as string
 
 const APP_NAME = '智能问问'
-const APP_DEFAULT_TITLE = '智能'
+const APP_DEFAULT_TITLE = '智能问问'
 const APP_TITLE_TEMPLATE = '%s - PWA App'
 const APP_DESCRIPTION =
   '智能问问---支持 满血版 Gemini 大模型。'
